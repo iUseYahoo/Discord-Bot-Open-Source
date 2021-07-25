@@ -4,11 +4,11 @@
 - [Nodejs](https://nodejs.org/en/download/)
 
 ### NPM Packages Needed
-- npm discord.js@12.5.3
-- npm email-generator@1.0.1
-- npm name-generate@0.0.1
-- npm username-generator@1.1.0
-- npm randomstring@1.2.1
+- npm i discord.js@12.5.3
+- npm i email-generator@1.0.1
+- npm i name-generate@0.0.1
+- npm i username-generator@1.1.0
+- npm i randomstring@1.2.1
 
 ### NPM Packages Optional
 - npm nodemon@2.0.12
