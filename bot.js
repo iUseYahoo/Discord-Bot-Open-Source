@@ -10,7 +10,6 @@ const client = new Discord.Client();
 const randomstring = require("randomstring");
 const usergen = require("username-generator");
 const namegen = require("name-generate");
-const emails = require('email-generator');
 const token = ''; // Add your bot token here.
 
 client.on("ready", () => {
