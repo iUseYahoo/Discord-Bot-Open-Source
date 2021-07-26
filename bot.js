@@ -171,7 +171,7 @@ function replyagain(message, parts) {
   var search = parts.slice(1).join(" ");
   message.channel.lastMessage.delete();
   message.channel.send(search)
-};
+}
 
 client.on('message', msg => {
   var marg = msg.content.split(" ")
