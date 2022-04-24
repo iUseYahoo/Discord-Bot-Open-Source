@@ -1,5 +1,5 @@
 ### Sinner Bot Open Source
-- Latest Fix - mpath v0.8.3 (Security Risk) Updated to 0.8.4
+- Latest Fix - Fixed multiple security vulnerabilities.
 
 ### Software Needed
 - [Nodejs](https://nodejs.org/en/download/)
